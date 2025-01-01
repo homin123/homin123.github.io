@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as e,d as a,o as c}from"./CEz6vteT.js";const n={};function r(l,t){return c(),s("div",null,t[0]||(t[0]=[e("section",{class:"about"},[e("h2",null,"소개"),e("p",null,[a("호민은 다양한 정보들을 알려주는 곳으로 로또당첨번호, 급식메뉴, 고양이 정보 등을 알려줍니다."),e("br"),a(" 아직 신생사이트여서 부족한게 많지만 잘 부탁드립니다")])],-1)]))}const _=o(n,[["render",r],["__scopeId","data-v-3eea8b2c"]]);export{_ as default};
